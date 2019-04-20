@@ -1,6 +1,8 @@
 # A Pot of Smart Contract Honeypots
 This repo contains almost all the Ethereum smart contract honeypots that can be found in the first three pages of Google search.
 
+![honeypot](https://imgur.com/1caNNCX.jpg)
+
 > The presentation slide made by the author is [here](https://www.slideshare.net/YaochiehHu/smart-contract-honeypots-on-blockchain)
 
 ## Tutorials
